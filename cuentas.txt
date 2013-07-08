@@ -1,0 +1,200 @@
+exchange rates
+==============
+1 usd = 114 isk
+1 eur = 164 isk
+
+payments, and IOUs
+==================
+paid, dm bus for gu and ja 3 * 4500
+owes, gu dm 4500
+owes, ja dm 4500
+
+paid, gu fast food for all 5943 = 5 * 1189
+owes, dm gu 1189
+owes, fr gu 1189
+owes, ja gu 1189
+owes, jp gu 1189
+
+paid, fr two rounds of beer 3600 = 4 * 900
+owes, dm fr 900
+owes, gu fr 900
+owes, ja fr 900
+owes, jp fr 900
+
+paid, ja bus to Landmannalaugar 35000 = 5 * 7000
+owes, dm ja 7000
+owes, fr ja 7000
+owes, gu ja 7000
+owes, jp ja 7000
+
+paid, gu hotel cabin 2 nights before trek 597.7 usd = 68137.8 = 5 * 13627
+owes, dm gu 13627
+owes, fr gu 13627
+owes, ja gu 13627
+owes, jp gu 13627 
+
+paid, gu hotel cabin 1 night 4 people after trek 335.16 usd = 38208.24 = 4 * 9552
+owes, dm gu 9552
+owes, fr gu 9552
+owes, jp gu 9552
+
+paid, fr cognac 40 eur = 6560 = 5 * 1312
+owes, dm fr 1312
+owes, gu fr 1312
+owes, ja fr 1312
+owes, jp fr 1312
+
+paid, gu food bags 10 * 10 usd = 11400 = 5 * 2280
+owes, dm gu 2280
+owes, fr gu 2280
+owes, ja gu 2280
+owes, jp gu 2280
+
+paid, ja food bags 10 * 10 usd = 5 * 2280
+owes, dm ja 2280
+owes, fr ja 2280
+owes, gu ja 2280
+owes, jp ja 2280
+
+paid, jp food bags 7 * 10 usd = 7980 = 5 * 1596
+owes, dm jp 1596
+owes, fr jp 1596
+owes, gu jp 1596
+owes, ja jp 1596
+
+paid, fr cake and coffe (at 73) 3000 = 5 * 600
+owes, dm fr 600
+owes, gu fr 600
+owes, ja fr 600
+owes, jp fr 600
+
+paid, fr burgers at 73 13000 = 5 * 2600
+owes, dm fr 2600
+owes, gu fr 2600
+owes, ja fr 2600
+owes, jp fr 2600
+
+paid, fr food shopping 13000 (rounded) = 5 * 2600
+owes, dm fr 2600
+owes, gu fr 2600
+owes, ja fr 2600
+owes, jp fr 2600
+
+paid, gu public thermal pool 4250 = 5 * 850
+owes, dm gu 850
+owes, fr gu 850
+owes, ja gu 850
+owes, jp gu 850
+
+paid, fr taxi to catch bus 2000 = 5 * 400
+owes, dm fr 400
+owes, gu fr 400
+owes, ja fr 400
+owes, jp fr 400
+
+paid, fr hotel food 5300 = 5 * 1060
+owes, dm fr 1060
+owes, gu fr 1060
+owes, ja fr 1060
+owes, jp fr 1060
+
+paid, fr hut 1 5500 = 5 * 1100
+owes, dm fr 1100
+owes, gu fr 1100
+owes, ja fr 1100
+owes, jp fr 1100
+
+paid, jp towels for thermal bath hut 1 1500 = 5 * 300
+owes, dm jp 300
+owes, gu jp 300
+owes, fr jp 300
+owes, ja jp 300
+
+paid, jp gas canisters 24 usd = 2736 = 5 * 547
+owes, dm jp 547
+owes, fr jp 547
+owes, gu jp 547
+owes, ja jp 547
+
+paid, fr hut 2 15500 = 5 * 3100
+owes, dm fr 3100
+owes, gu fr 3100
+owes, ja fr 3100
+owes, jp fr 3100
+
+paid, jp hut 3 25000 = 5 * 5000
+owes, dm jp 5000
+owes, gu jp 5000
+owes, fr jp 5000
+owes, ja jp 5000
+
+paid, dm hut 4 8000 = 5 * 1600
+owes, fr dm 1600
+owes, gu dm 1600
+owes, ja dm 1600
+owes, jp dm 1600
+
+paid, ja hut 5 25000 = 5 * 5000
+owes, dm ja 5000
+owes, fr ja 5000
+owes, gu ja 5000
+owes, jp ja 5000
+
+paid, jp food + beer thorsmork 5700 = 5 * 1140
+owes, dm jp 1140
+owes, gu jp 1140
+owes, fr jp 1140
+owes, ja jp 1140
+
+paid, dm food thorsmork 7300 = 5 * 1260
+owes, fr dm 1260
+owes, gu dm 1260
+owes, ja dm 1260
+owes, jp dm 1260
+
+paid, ja bus 30000 = 5 * 6000
+owes, dm ja 6000
+owes, fr ja 6000
+owes, gu ja 6000
+owes, jp ja 6000
+
+paid, gu hotel cabin 40800 = 5 * 8160
+owes, dm gu 8160
+owes, fr gu 8160
+owes, ja gu 8160
+owes, jp gu 8160
+
+paid, dm dinner at 73 18910 = 5 * 3782
+owes, fr dm 3782
+owes, gu dm 3782
+owes, ja dm 3782
+owes, jp dm 3782
+
+paid, dm tip 25 USD diner 2850 = 5 * 570
+owes, fr dm 570
+owes, gu dm 570
+owes, ja dm 570
+owes, jp dm 570
+
+paid, jp beers 3500 = 5 * 700
+owes, dm jp 700
+owes, fr jp 700
+owes, gu jp 700
+owes, ja jp 700
+
+paid, jp brunch 11980 = 5 * 2396
+owes, dm jp 2396
+owes, fr jp 2396
+owes, gu jp 2396
+owes, ja jp 2396
+
+paid, jp bought beer for fr gu ja 3800 = 4 * 950
+owes, fr jp 950
+owes, gu jp 950
+owes, ja jp 950
+
+paid, dm dinner 29000 = 5 * 5800
+owes, fr dm 5800
+owes, gu dm 5800
+owes, ja dm 5800
+owes, jp dm 5800
