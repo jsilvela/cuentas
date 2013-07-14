@@ -218,7 +218,7 @@ public class Compute {
         }
 
         for (String person : individualBalance.keySet()) {
-            System.out.println(person + " owes: " + individualBalance.get(person));
+            System.out.println(person + "  owes: " + individualBalance.get(person));
         }
     }
 }
